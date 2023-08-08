@@ -22,14 +22,6 @@ This is a Habit Tracker  Project which is built using Nodejs, Ejs ,CSS, Javascri
 -mongoose<br/>
 -nodemon<br/>
 
-## 🔗 Links
-
-> ## Checkout the website link : https://ajay-habit.onrender.com/
-
-
-<br/>
-<br/>
-
 ## 💻 Screens
 
 ### Add Habit
